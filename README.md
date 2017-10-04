@@ -32,7 +32,7 @@ git clone https://github.com/bryancresswell/NewsBot.git
 
 ## License
 
-What should I license...
+What should I license... MIT!
 
 ## Acknowledgments
 
